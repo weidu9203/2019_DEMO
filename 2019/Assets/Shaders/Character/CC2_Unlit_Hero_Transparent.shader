@@ -6,11 +6,11 @@ Properties
 		[MaterialToggle] _Alpha ("Translucent state", Float) = 0
 		[Header(Frozen Effect)]
 		[KeywordEnum(Off,On)]_FrozenEffect("Frozen state",Float) = 0
-		_FrozenTex("Ice Texture", 2D) = "white" {}  
-        _Cube("Reflection Cubemap", Cube) = "" {} 
-	    _ReflectColor("Reflection Color", Color) = (0.77,1,1,1)  
-		_Strength("Reflection Strength",Range(0, 1)) = 0.612  
-        _BumpMap("Normalmap", 2D) = "bump" {} 
+		//_FrozenTex("Ice Texture", 2D) = "white" {}  
+        //_Cube("Reflection Cubemap", Cube) = "" {} 
+	   // _ReflectColor("Reflection Color", Color) = (0.77,1,1,1)  
+		//_Strength("Reflection Strength",Range(0, 1)) = 0.612  
+       // _BumpMap("Normalmap", 2D) = "bump" {} 
         _Cutoff ("Transparent",range(0,1)) = 0.65
 		[Header(Shadow Effect)]
 		[KeywordEnum(On,Off)]_ShadowEffect("Shadow state",Float) = 0
