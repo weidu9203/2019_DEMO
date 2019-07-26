@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 9e4ac500063e97342876ca83a1af5549
+timeCreated: 1542715451
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _mask: {fileID: 2800000, guid: 10bf6570d94e9f2409f66c39e54fb5fa, type: 3}
+  - _rongjie_tex: {fileID: 2800000, guid: 10bf6570d94e9f2409f66c39e54fb5fa, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
